@@ -5,34 +5,43 @@ export const siteConfig = {
   accentColor: "#1d4ed8",
   social: {
     email: "ogennaisrael@gmail.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
+    linkedin: "linkedin.com/in/ogennaisrael",
     twitter: "https://x.com/Ogenna01",
     github: "https://github.com/ogennaisrael01",
   },
-  aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Python", "Django", "FastAPI", "Linux", "PostgreSQL", "Docker", "MongoDB", "MYSQL", "Postman", "Git", "GitHub"],
+  aboutMe: "I’m a Backend Developer who loves turning ideas into functional, scalable systems using Python REST Framework (Django REST Framework and FastAPI).\n\
+      I focus on building clean, efficient, and well-structured APIs that can power any web application.\n\
+      I enjoy solving complex problems, designing systems that scale, and continuously learning new tools and technologies to improve my craft.\n\n\
+      LET'S BUILD SOMETHING GREAT TOGETHER!",
+  skills: ["Python", "Django", "FastAPI", "Linux", "PostgreSQL", "Docker", "MongoDB", "MYSQL", "Postman", "Git", "GitHub", "Django REST Framework (DRF)"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "E-commerce API",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Build a powerful, production-ready API for a modern e-commerce platform that can handle real-world traffic and transactions. Explore best practices, scalable design patterns, and modern web technologies to deliver reliable backend solutions.",
+      link: "https://github.com/ogennaisrael01/ecommerceApi",
+      skills: ["Python", "Django", "Django REST Freamwork", "PostgreSQL", "PAYSTACK", "JWT"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Easy Connect. Built with FastAPI and MongoDB",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Master the art of building production-ready API for social media clone using modern web technologies and best practices",
+      link: "https://easyconnect-mu.vercel.app/",
+      skills: ["FastAPI", "MongoDB", "Vercel", "Python", "JWT"],
     },
     {
-      name: "ExtensionKit",
+      name: "PropertyHUB",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Develop a robust, scalable API for a Property Hub platform, powering property listings, searches, and user interactions. Learn to implement best practices to build reliable and efficient backend solutions.",
+      link: "https://github.com/ogennaisrael01/PropertyHub",
+      skills: ["Python", "Django REST Freamwork", "Django", "PostgreSQL", "JWT"],
+    },
+    {
+      name: "Todo API",
+      description:
+        "Create a clean, efficient API for a To-Do application that manages tasks, deadlines, and user interactions. Learn to apply best practices and modern web technologies to build a reliable, production-ready backend.",
+      link: "https://todo-api-three-kappa.vercel.app/",
+      skills: ["Python", "FastAPI", "Alembic", "PostgreSQL", "JWT", "vercel"],
     },
   ],
   experience: [
