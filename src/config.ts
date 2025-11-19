@@ -32,7 +32,7 @@ export const siteConfig = {
     {
       name: "PropertyHUB",
       description:
-        "Develop a robust, scalable API for a Property Hub platform, powering property listings, searches, and user interactions. Learn to implement best practices to build reliable and efficient backend solutions.",
+        "Develop and Deployed a robust, scalable API for a Property Hub platform, powering property listings, searches, and user interactions. Learn to implement best practices to build reliable and efficient backend solutions.",
       link: "https://property-hub-l412.onrender.com/docs/",
       skills: ["Python", "Django REST Freamwork", "Django", "PostgreSQL", "JWT"],
     },
