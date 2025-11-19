@@ -26,14 +26,14 @@ export const siteConfig = {
       name: "Easy Connect. Built with FastAPI and MongoDB",
       description:
         "Master the art of building production-ready API for social media clone using modern web technologies and best practices",
-      link: "https://easyconnect-mu.vercel.app/",
+      link: "https://easyconnect-mu.vercel.app/docs",
       skills: ["FastAPI", "MongoDB", "Vercel", "Python", "JWT"],
     },
     {
       name: "PropertyHUB",
       description:
         "Develop a robust, scalable API for a Property Hub platform, powering property listings, searches, and user interactions. Learn to implement best practices to build reliable and efficient backend solutions.",
-      link: "https://github.com/ogennaisrael01/PropertyHub",
+      link: "https://property-hub-l412.onrender.com/docs/",
       skills: ["Python", "Django REST Freamwork", "Django", "PostgreSQL", "JWT"],
     },
     {
@@ -43,58 +43,56 @@ export const siteConfig = {
       link: "https://todo-api-three-kappa.vercel.app/",
       skills: ["Python", "FastAPI", "Alembic", "PostgreSQL", "JWT", "vercel"],
     },
+    {
+      name: "Car Reservation API",
+      description:
+        "Developed the reservation system for a car rental app during an online hackathon, implementing booking logic, availability checks, and user validation using FastAPI and MongoDB",
+      link: "https://api.evodrive.site/",
+      skills: ["Python", "FastAPI", "MongoDb", "Docker", "APShedular"],
+    },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "Start Up Inc",
+      title: "Backend Developer",
+      dateRange: "Sep 2025 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Contributed to building backend systems for an early-stage startup focused on digital solutions.",
+        "Collaborated on core features using FastAPI and POSTGRESQL, emphasizing scalability and clean architecture.",
+        "Played a key role in shaping technical direction and building product features.",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Hackathon",
+      title: "Backend Developer",
+      dateRange: "Sep 2025 - Oct 2025",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "Participated in a fast-paced online hackathon where I developed the reservation module of a collaborative car rental platform.",
+        "Designed and implemented RESTful APIs for booking flow, including validation and availability checks",
+        "Demonstrated teamwork and rapid iteration under time constraints.",
       ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
-      ],
-    },
+    }
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "ALX Africa",
+      degree: "Certified Backend Developer",
+      dateRange: "Mar 2025 - Sep 2025",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Completed an intensive, project based backend program with focus on Python and Django",
+        "Built scalable RESTFUL APIs and micro services using best practices in software architecture",
+        "Delivered multiple data driven applications under strict deadlines",
       ],
     },
     {
       school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      degree: "Professional Foundation Training",
+      dateRange: "2025",
       achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "Completed a 3 months of intense training to thrive professionlaly",
+        "Developed strong foundation in problem solving, critical thinking and collaboration through team based challenges",
+        "Practiced AGILE methodologies and effective time management across multiple deadlines and deliverables",
+        "Learned communication best practices for technical documentation, code reviws and peer feedback"
       ],
     },
   ],
