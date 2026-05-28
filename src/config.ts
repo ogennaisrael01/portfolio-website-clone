@@ -82,7 +82,7 @@ export const siteConfig = {
   experience: [
     {
       company: "SKills4Hire: Digital marketplace connecting skilled professionals with clients",
-      title: "Lead Backend Developer",
+      title: "Backend Software Developer",
       dateRange: "Dec 2025 - Present",
       bullets: [
         "Architected and built the entire backend system from scratch using Django and Django REST Framework, taking full ownership from database schema design to production deployment.",
@@ -109,7 +109,7 @@ export const siteConfig = {
     },
     {
       company: "Decio Labs",
-      title: "Backend Developer",
+      title: "Backend Software Developer",
       bullets: [
           "Designed and built the entire backend system for a remote cinema platform from scratch using FastAPI with a fully async architecture, taking complete ownership from database schema to production deployment",
           "Implemented async database interactions with SQLAlchemy 2.0, connected to a Supabase-managed PostgreSQL instance for reliable and scalable data persistence",
