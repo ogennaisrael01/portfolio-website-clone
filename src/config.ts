@@ -78,6 +78,23 @@ export const siteConfig = {
         "Role-Based Authentication", "Secure Messaging System", 
       ],
     },
+    {
+      name: "Blog API - Complete Blogging Platform Backend",
+      description: "A production-ready backend for a full-featured blogging platform built with Node.js/Express and TypeScript. \
+      Users can create, publish, and discover blog posts with rich interactions including comments, likes, and bookmarks. \
+      The platform features AI-powered content summarization, newsletter subscriptions with bulk email delivery, and real-time \
+      notifications via Socket.IO. It includes secure JWT-based authentication with email verification, role-based access control, \
+      and a robust background job processing system using Redis and BullMQ. Complete REST API with auto-generated Swagger documentation.",
+      link: "https://blog1.up.railway.app/api-docs/",
+      skills: [
+        "TypeScript", "Node.js", "Express.js",
+        "PostgreSQL", "Prisma ORM", "Redis",
+        "Socket.IO", "BullMQ", "JWT Authentication",
+        "Nodemailer", "Cloudinary", "OpenAI",
+        "Swagger/OpenAPI", "Bcrypt", "Multer",
+        "Zod Validation"
+      ]
+    }
   ],
   experience: [
     {
